@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/alufers/owm-patrons/common"
+	"github.com/otwarty-wykop-mobilny/owm-patrons/common"
 	"github.com/kevinburke/nacl"
 	"github.com/kevinburke/nacl/secretbox"
 )

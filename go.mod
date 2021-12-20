@@ -1,4 +1,4 @@
-module github.com/alufers/owm-patrons
+module github.com/otwarty-wykop-mobilny/owm-patrons
 
 require (
 	github.com/google/go-github v17.0.0+incompatible

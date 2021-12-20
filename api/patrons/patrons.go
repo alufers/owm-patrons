@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/alufers/owm-patrons/common"
+	"github.com/otwarty-wykop-mobilny/owm-patrons/common"
 
 	"github.com/google/go-github/v21/github"
 	"golang.org/x/oauth2"
